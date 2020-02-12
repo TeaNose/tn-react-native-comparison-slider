@@ -1,0 +1,63 @@
+{
+  "_from": "react-native-comparison-slider@0.1.44",
+  "_id": "react-native-comparison-slider@0.1.44",
+  "_inBundle": false,
+  "_integrity": "sha1-m8yu+eKbOvTtp5iK6AeAX/rkFLw=",
+  "_location": "/react-native-comparison-slider",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-comparison-slider@0.1.44",
+    "name": "react-native-comparison-slider",
+    "escapedName": "react-native-comparison-slider",
+    "rawSpec": "0.1.44",
+    "saveSpec": null,
+    "fetchSpec": "0.1.44"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-comparison-slider/-/react-native-comparison-slider-0.1.44.tgz",
+  "_shasum": "9bccaef9e29b3af4eda7988ae807805ffae414bc",
+  "_spec": "react-native-comparison-slider@0.1.44",
+  "_where": "/Users/agustinuswikrama/Documents/Code/avaderma-app",
+  "author": {
+    "name": "Charles-Olivier Demers",
+    "email": "charles-olivierdemers@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/charlot567/react-native-comparison-slider/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Comparison Slider as a component for react native.",
+  "homepage": "https://github.com/charlot567/react-native-comparison-slider#readme",
+  "keywords": [
+    "React-Native",
+    "Comparison",
+    "Image",
+    "Slider"
+  ],
+  "license": "MIT",
+  "main": "components/ComparisonSlider.js",
+  "name": "react-native-comparison-slider",
+  "peerDependencies": {
+    "react": "16.0.0-alpha.12",
+    "react-native": "0.47.1",
+    "react-native-slider": "^0.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlot567/react-native-comparison-slider.git"
+  },
+  "rnpm": {
+    "android": {
+      "sourceDir": "./android"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.44"
+}
